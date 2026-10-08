@@ -1,0 +1,30 @@
+body {
+  background: linear-gradient(to right, #f1eab9, #ff8c8c);
+  color: #000;
+  text-align: center;
+  font-family: ALGERIAN;
+  margin: 0;
+  padding: 20px;
+}
+
+img {
+  display: block;
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+  border-radius: 10px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.15);
+  margin: 20px auto 10px;
+}
+
+h2 {
+  color: darkslategray;
+  font-size: 1.3em;
+  margin: 5px 0;
+}
+
+small {
+  display: block;
+  color: #666;
+  margin-bottom: 30px;
+}
